@@ -1,3 +1,7 @@
 esto es una prueba
 de dos lineas
+<<<<<<< HEAD
 rama principal
+=======
+probando rama2
+>>>>>>> rama2
